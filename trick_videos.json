@@ -1,0 +1,1335 @@
+{
+    "Tic-Tac": {
+        "slow_motion": {
+            "url": "",
+            "start_time": null,
+            "end_time": null
+        },
+        "pro_examples": [],
+        "tutorial": ""
+    },
+    "Kickturn": {
+        "slow_motion": {
+            "url": "",
+            "start_time": null,
+            "end_time": null
+        },
+        "pro_examples": [],
+        "tutorial": ""
+    },
+    "Powerslide": {
+        "slow_motion": {
+            "url": "",
+            "start_time": null,
+            "end_time": null
+        },
+        "pro_examples": [],
+        "tutorial": ""
+    },
+    "Ollie": {
+        "slow_motion": {
+            "url": "https://www.youtube.com/watch?v=Jig3uiYsb4w&ab_channel=slowmomike",
+            "start_time": 17,
+            "end_time": 26
+        },
+        "pro_examples": [
+                    {
+                        "name": "Chima Ferguson",
+                        "url": "https://www.youtube.com/watch?v=J-tCWu7TY3c&ab_channel=ThrasherMagazine",
+                        "start_time": 341,
+                        "end_time": 348
+
+                    },
+                    {
+                        "name": "Brandon Westgate",
+                        "url": "https://www.youtube.com/watch?v=hsjkd3kUTWo&ab_channel=ThrasherMagazine",
+                        "start_time": 229,
+                        "end_time": 236
+
+                    }
+                ],
+        "tutorial": "https://www.youtube.com/watch?v=QkeOAcj8Y5k&ab_channel=BrailleSkateboarding"
+    },
+    "Shuvit": {
+        "slow_motion": {
+            "url": "",
+            "start_time": null,
+            "end_time": null
+        },
+        "pro_examples": [],
+        "tutorial": ""
+    },
+    "Fakie Ollie": {
+        "slow_motion": {
+            "url": "",
+            "start_time": null,
+            "end_time": null
+        },
+        "pro_examples": [],
+        "tutorial": ""
+    },
+    "Frontside 180": {
+        "slow_motion": {
+            "url": "",
+            "start_time": null,
+            "end_time": null
+        },
+        "pro_examples": [],
+        "tutorial": ""
+    },
+    "Backside 180": {
+        "slow_motion": {
+            "url": "",
+            "start_time": null,
+            "end_time": null
+        },
+        "pro_examples": [],
+        "tutorial": ""
+    },
+    "No Comply": {
+        "slow_motion": {
+            "url": "",
+            "start_time": null,
+            "end_time": null
+        },
+        "pro_examples": [],
+        "tutorial": ""
+    },
+    "Ollie North": {
+        "slow_motion": {
+            "url": "",
+            "start_time": null,
+            "end_time": null
+        },
+        "pro_examples": [],
+        "tutorial": ""
+    },
+    "Ollie South": {
+        "slow_motion": {
+            "url": "",
+            "start_time": null,
+            "end_time": null
+        },
+        "pro_examples": [],
+        "tutorial": ""
+    },
+    "Sex Change": {
+        "slow_motion": {
+            "url": "",
+            "start_time": null,
+            "end_time": null
+        },
+        "pro_examples": [],
+        "tutorial": ""
+    },
+    "Nollie": {
+        "slow_motion": {
+            "url": "",
+            "start_time": null,
+            "end_time": null
+        },
+        "pro_examples": [],
+        "tutorial": ""
+    },
+    "Frontside Pop Shove-it": {
+        "slow_motion": {
+            "url": "",
+            "start_time": null,
+            "end_time": null
+        },
+        "pro_examples": [],
+        "tutorial": ""
+    },
+    "Backside Pop Shove-it": {
+        "slow_motion": {
+            "url": "",
+            "start_time": null,
+            "end_time": null
+        },
+        "pro_examples": [],
+        "tutorial": ""
+    },
+    "360 Shuvit": {
+        "slow_motion": {
+            "url": "",
+            "start_time": null,
+            "end_time": null
+        },
+        "pro_examples": [],
+        "tutorial": ""
+    },
+    "Backside Half Cab": {
+        "slow_motion": {
+            "url": "",
+            "start_time": null,
+            "end_time": null
+        },
+        "pro_examples": [],
+        "tutorial": ""
+    },
+    "Half Cab": {
+        "slow_motion": {
+            "url": "",
+            "start_time": null,
+            "end_time": null
+        },
+        "pro_examples": [],
+        "tutorial": ""
+    },
+    "Frontside Half Cab": {
+        "slow_motion": {
+            "url": "",
+            "start_time": null,
+            "end_time": null
+        },
+        "pro_examples": [],
+        "tutorial": ""
+    },
+    "Switch Ollie": {
+        "slow_motion": {
+            "url": "",
+            "start_time": null,
+            "end_time": null
+        },
+        "pro_examples": [],
+        "tutorial": ""
+    },
+    "Switch Frontside 180": {
+        "slow_motion": {
+            "url": "",
+            "start_time": null,
+            "end_time": null
+        },
+        "pro_examples": [],
+        "tutorial": ""
+    },
+    "Fingerflip": {
+        "slow_motion": {
+            "url": "",
+            "start_time": null,
+            "end_time": null
+        },
+        "pro_examples": [],
+        "tutorial": ""
+    },
+    "Kickflip": {
+        "slow_motion": {
+            "url": "https://www.youtube.com/watch?v=cC7VEqn-mUM&ab_channel=AdamShomsky",
+            "start_time": 11,
+            "end_time": 28
+        },
+        "pro_examples": [{
+                        "name": "Andrew Reynolds",
+                        "url": "https://www.youtube.com/watch?v=e_fKdC9l15g&ab_channel=SkateVideoVault",
+                        "start_time": 3027,
+                        "end_time": 3039
+
+                    },
+                    {
+                        "name": "Heath Kirchart",
+                        "url": "https://www.youtube.com/watch?v=e_fKdC9l15g&t=3032s&ab_channel=SkateVideoVault",
+                        "start_time": 3565,
+                        "end_time": 3570
+
+                    }],
+        "tutorial": "https://www.youtube.com/watch?v=Zebs7JZ2PW0&t=57s&ab_channel=JonnyGiger"
+    },
+    "Nollie Frontside 180": {
+        "slow_motion": {
+            "url": "",
+            "start_time": null,
+            "end_time": null
+        },
+        "pro_examples": [],
+        "tutorial": ""
+    },
+    "Switch Backside 180": {
+        "slow_motion": {
+            "url": "",
+            "start_time": null,
+            "end_time": null
+        },
+        "pro_examples": [],
+        "tutorial": ""
+    },
+    "Nollie Backside 180": {
+        "slow_motion": {
+            "url": "",
+            "start_time": null,
+            "end_time": null
+        },
+        "pro_examples": [],
+        "tutorial": ""
+    },
+    "Heelflip": {
+        "slow_motion": {
+            "url": "",
+            "start_time": null,
+            "end_time": null
+        },
+        "pro_examples": [],
+        "tutorial": ""
+    },
+    "Fakie Frontside Pop Shove-it": {
+        "slow_motion": {
+            "url": "",
+            "start_time": null,
+            "end_time": null
+        },
+        "pro_examples": [],
+        "tutorial": ""
+    },
+    "Fakie Kickflip": {
+        "slow_motion": {
+            "url": "",
+            "start_time": null,
+            "end_time": null
+        },
+        "pro_examples": [],
+        "tutorial": ""
+    },
+    "Fakie Backside Pop Shove-it": {
+        "slow_motion": {
+            "url": "",
+            "start_time": null,
+            "end_time": null
+        },
+        "pro_examples": [],
+        "tutorial": ""
+    },
+    "360 Pop Shove-it": {
+        "slow_motion": {
+            "url": "",
+            "start_time": null,
+            "end_time": null
+        },
+        "pro_examples": [],
+        "tutorial": ""
+    },
+    "Varial Kickflip": {
+        "slow_motion": {
+            "url": "",
+            "start_time": null,
+            "end_time": null
+        },
+        "pro_examples": [],
+        "tutorial": ""
+    },
+    "Fakie Heelflip": {
+        "slow_motion": {
+            "url": "",
+            "start_time": null,
+            "end_time": null
+        },
+        "pro_examples": [],
+        "tutorial": ""
+    },
+    "Varial Heelflip": {
+        "slow_motion": {
+            "url": "",
+            "start_time": null,
+            "end_time": null
+        },
+        "pro_examples": [],
+        "tutorial": ""
+    },
+    "Frontside 360": {
+        "slow_motion": {
+            "url": "",
+            "start_time": null,
+            "end_time": null
+        },
+        "pro_examples": [],
+        "tutorial": ""
+    },
+    "Pressure Flip": {
+        "slow_motion": {
+            "url": "",
+            "start_time": null,
+            "end_time": null
+        },
+        "pro_examples": [],
+        "tutorial": ""
+    },
+    "Frontside Kickflip": {
+        "slow_motion": {
+            "url": "",
+            "start_time": null,
+            "end_time": null
+        },
+        "pro_examples": [],
+        "tutorial": ""
+    },
+    "Bigspin": {
+        "slow_motion": {
+            "url": "",
+            "start_time": null,
+            "end_time": null
+        },
+        "pro_examples": [],
+        "tutorial": ""
+    },
+    "Nollie Frontside Pop Shove-it": {
+        "slow_motion": {
+            "url": "",
+            "start_time": null,
+            "end_time": null
+        },
+        "pro_examples": [],
+        "tutorial": ""
+    },
+    "Backside 360": {
+        "slow_motion": {
+            "url": "",
+            "start_time": null,
+            "end_time": null
+        },
+        "pro_examples": [],
+        "tutorial": ""
+    },
+    "Frontside Caballerial": {
+        "slow_motion": {
+            "url": "",
+            "start_time": null,
+            "end_time": null
+        },
+        "pro_examples": [],
+        "tutorial": ""
+    },
+    "Frontside Flip": {
+        "slow_motion": {
+            "url": "",
+            "start_time": null,
+            "end_time": null
+        },
+        "pro_examples": [],
+        "tutorial": ""
+    },
+    "Backside Kickflip": {
+        "slow_motion": {
+            "url": "",
+            "start_time": null,
+            "end_time": null
+        },
+        "pro_examples": [],
+        "tutorial": ""
+    },
+    "Frontside Bigspin": {
+        "slow_motion": {
+            "url": "",
+            "start_time": null,
+            "end_time": null
+        },
+        "pro_examples": [],
+        "tutorial": ""
+    },
+    "Nollie Kickflip": {
+        "slow_motion": {
+            "url": "",
+            "start_time": null,
+            "end_time": null
+        },
+        "pro_examples": [],
+        "tutorial": ""
+    },
+    "Nollie Backside Pop Shove-it": {
+        "slow_motion": {
+            "url": "",
+            "start_time": null,
+            "end_time": null
+        },
+        "pro_examples": [],
+        "tutorial": ""
+    },
+    "Backside Caballerial": {
+        "slow_motion": {
+            "url": "",
+            "start_time": null,
+            "end_time": null
+        },
+        "pro_examples": [],
+        "tutorial": ""
+    },
+    "Backside Flip": {
+        "slow_motion": {
+            "url": "",
+            "start_time": null,
+            "end_time": null
+        },
+        "pro_examples": [],
+        "tutorial": ""
+    },
+    "Backside Bigspin": {
+        "slow_motion": {
+            "url": "",
+            "start_time": null,
+            "end_time": null
+        },
+        "pro_examples": [],
+        "tutorial": ""
+    },
+    "Rail Flip": {
+        "slow_motion": {
+            "url": "",
+            "start_time": null,
+            "end_time": null
+        },
+        "pro_examples": [],
+        "tutorial": ""
+    },
+    "Nollie Heelflip": {
+        "slow_motion": {
+            "url": "",
+            "start_time": null,
+            "end_time": null
+        },
+        "pro_examples": [],
+        "tutorial": ""
+    },
+    "Switch Frontside Pop Shove-it": {
+        "slow_motion": {
+            "url": "",
+            "start_time": null,
+            "end_time": null
+        },
+        "pro_examples": [],
+        "tutorial": ""
+    },
+    "Frontside Heelflip": {
+        "slow_motion": {
+            "url": "",
+            "start_time": null,
+            "end_time": null
+        },
+        "pro_examples": [],
+        "tutorial": ""
+    },
+    "Hospital Flip": {
+        "slow_motion": {
+            "url": "",
+            "start_time": null,
+            "end_time": null
+        },
+        "pro_examples": [],
+        "tutorial": ""
+    },
+    "Fakie Varial Kickflip": {
+        "slow_motion": {
+            "url": "",
+            "start_time": null,
+            "end_time": null
+        },
+        "pro_examples": [],
+        "tutorial": ""
+    },
+    "Switch Backside Pop Shove-it": {
+        "slow_motion": {
+            "url": "",
+            "start_time": null,
+            "end_time": null
+        },
+        "pro_examples": [],
+        "tutorial": ""
+    },
+    "Backside Heelflip": {
+        "slow_motion": {
+            "url": "",
+            "start_time": null,
+            "end_time": null
+        },
+        "pro_examples": [],
+        "tutorial": ""
+    },
+    "Switch Kickflip": {
+        "slow_motion": {
+            "url": "",
+            "start_time": null,
+            "end_time": null
+        },
+        "pro_examples": [],
+        "tutorial": ""
+    },
+    "Fakie Frontside Bigspin": {
+        "slow_motion": {
+            "url": "",
+            "start_time": null,
+            "end_time": null
+        },
+        "pro_examples": [],
+        "tutorial": ""
+    },
+    "Frontside Half Cab Kickflip": {
+        "slow_motion": {
+            "url": "",
+            "start_time": null,
+            "end_time": null
+        },
+        "pro_examples": [],
+        "tutorial": ""
+    },
+    "Fakie Varial Heelflip": {
+        "slow_motion": {
+            "url": "",
+            "start_time": null,
+            "end_time": null
+        },
+        "pro_examples": [],
+        "tutorial": ""
+    },
+    "Backside Half Cab Kickflip": {
+        "slow_motion": {
+            "url": "",
+            "start_time": null,
+            "end_time": null
+        },
+        "pro_examples": [],
+        "tutorial": ""
+    },
+    "Switch Heelflip": {
+        "slow_motion": {
+            "url": "",
+            "start_time": null,
+            "end_time": null
+        },
+        "pro_examples": [],
+        "tutorial": ""
+    },
+    "Fakie Backside Bigspin": {
+        "slow_motion": {
+            "url": "",
+            "start_time": null,
+            "end_time": null
+        },
+        "pro_examples": [],
+        "tutorial": ""
+    },
+    "Frontside Half Cab Heelflip": {
+        "slow_motion": {
+            "url": "",
+            "start_time": null,
+            "end_time": null
+        },
+        "pro_examples": [],
+        "tutorial": ""
+    },
+    "Hardflip": {
+        "slow_motion": {
+            "url": "",
+            "start_time": null,
+            "end_time": null
+        },
+        "pro_examples": [],
+        "tutorial": ""
+    },
+    "Double Kickflip": {
+        "slow_motion": {
+            "url": "",
+            "start_time": null,
+            "end_time": null
+        },
+        "pro_examples": [],
+        "tutorial": ""
+    },
+    "Nollie Frontside Kickflip": {
+        "slow_motion": {
+            "url": "",
+            "start_time": null,
+            "end_time": null
+        },
+        "pro_examples": [],
+        "tutorial": ""
+    },
+    "Nollie Frontside Bigspin": {
+        "slow_motion": {
+            "url": "",
+            "start_time": null,
+            "end_time": null
+        },
+        "pro_examples": [],
+        "tutorial": ""
+    },
+    "Nollie Varial Kickflip": {
+        "slow_motion": {
+            "url": "",
+            "start_time": null,
+            "end_time": null
+        },
+        "pro_examples": [],
+        "tutorial": ""
+    },
+    "Backside Half Cab Heelflip": {
+        "slow_motion": {
+            "url": "",
+            "start_time": null,
+            "end_time": null
+        },
+        "pro_examples": [],
+        "tutorial": ""
+    },
+    "Inward Heelflip": {
+        "slow_motion": {
+            "url": "",
+            "start_time": null,
+            "end_time": null
+        },
+        "pro_examples": [],
+        "tutorial": ""
+    },
+    "360 Flip": {
+        "slow_motion": {
+            "url": "",
+            "start_time": null,
+            "end_time": null
+        },
+        "pro_examples": [],
+        "tutorial": ""
+    },
+    "Double Heelflip": {
+        "slow_motion": {
+            "url": "",
+            "start_time": null,
+            "end_time": null
+        },
+        "pro_examples": [],
+        "tutorial": ""
+    },
+    "Nollie Backside Kickflip": {
+        "slow_motion": {
+            "url": "",
+            "start_time": null,
+            "end_time": null
+        },
+        "pro_examples": [],
+        "tutorial": ""
+    },
+    "Nollie Backside Bigspin": {
+        "slow_motion": {
+            "url": "",
+            "start_time": null,
+            "end_time": null
+        },
+        "pro_examples": [],
+        "tutorial": ""
+    },
+    "Nollie Varial Heelflip": {
+        "slow_motion": {
+            "url": "",
+            "start_time": null,
+            "end_time": null
+        },
+        "pro_examples": [],
+        "tutorial": ""
+    },
+    "Switch Frontside 360": {
+        "slow_motion": {
+            "url": "",
+            "start_time": null,
+            "end_time": null
+        },
+        "pro_examples": [],
+        "tutorial": ""
+    },
+    "Nollie Frontside Heelflip": {
+        "slow_motion": {
+            "url": "",
+            "start_time": null,
+            "end_time": null
+        },
+        "pro_examples": [],
+        "tutorial": ""
+    },
+    "Nollie 360 Pop Shove-it": {
+        "slow_motion": {
+            "url": "",
+            "start_time": null,
+            "end_time": null
+        },
+        "pro_examples": [],
+        "tutorial": ""
+    },
+    "Fakie Hardflip": {
+        "slow_motion": {
+            "url": "",
+            "start_time": null,
+            "end_time": null
+        },
+        "pro_examples": [],
+        "tutorial": ""
+    },
+    "Frontside 360 Pop Shove it": {
+        "slow_motion": {
+            "url": "",
+            "start_time": null,
+            "end_time": null
+        },
+        "pro_examples": [],
+        "tutorial": ""
+    },
+    "Switch Varial Kickflip": {
+        "slow_motion": {
+            "url": "",
+            "start_time": null,
+            "end_time": null
+        },
+        "pro_examples": [],
+        "tutorial": ""
+    },
+    "Nollie Backside Heelflip": {
+        "slow_motion": {
+            "url": "",
+            "start_time": null,
+            "end_time": null
+        },
+        "pro_examples": [],
+        "tutorial": ""
+    },
+    "Switch Backside 360": {
+        "slow_motion": {
+            "url": "",
+            "start_time": null,
+            "end_time": null
+        },
+        "pro_examples": [],
+        "tutorial": ""
+    },
+    "Fakie Inward Heelflip": {
+        "slow_motion": {
+            "url": "",
+            "start_time": null,
+            "end_time": null
+        },
+        "pro_examples": [],
+        "tutorial": ""
+    },
+    "Impossible": {
+        "slow_motion": {
+            "url": "",
+            "start_time": null,
+            "end_time": null
+        },
+        "pro_examples": [],
+        "tutorial": ""
+    },
+    "Caballerial Flip": {
+        "slow_motion": {
+            "url": "",
+            "start_time": null,
+            "end_time": null
+        },
+        "pro_examples": [],
+        "tutorial": ""
+    },
+    "Switch Frontside Kickflip": {
+        "slow_motion": {
+            "url": "",
+            "start_time": null,
+            "end_time": null
+        },
+        "pro_examples": [],
+        "tutorial": ""
+    },
+    "Switch Frontside Bigspin": {
+        "slow_motion": {
+            "url": "",
+            "start_time": null,
+            "end_time": null
+        },
+        "pro_examples": [],
+        "tutorial": ""
+    },
+    "Switch Varial Heelflip": {
+        "slow_motion": {
+            "url": "",
+            "start_time": null,
+            "end_time": null
+        },
+        "pro_examples": [],
+        "tutorial": ""
+    },
+    "Bigflip": {
+        "slow_motion": {
+            "url": "",
+            "start_time": null,
+            "end_time": null
+        },
+        "pro_examples": [],
+        "tutorial": ""
+    },
+    "Toeflip": {
+        "slow_motion": {
+            "url": "",
+            "start_time": null,
+            "end_time": null
+        },
+        "pro_examples": [],
+        "tutorial": ""
+    },
+    "Fakie 360 Flip": {
+        "slow_motion": {
+            "url": "",
+            "start_time": null,
+            "end_time": null
+        },
+        "pro_examples": [],
+        "tutorial": ""
+    },
+    "Front Foot Impossible": {
+        "slow_motion": {
+            "url": "",
+            "start_time": null,
+            "end_time": null
+        },
+        "pro_examples": [],
+        "tutorial": ""
+    },
+    "Switch Backside Kickflip": {
+        "slow_motion": {
+            "url": "",
+            "start_time": null,
+            "end_time": null
+        },
+        "pro_examples": [],
+        "tutorial": ""
+    },
+    "Switch Backside Bigspin": {
+        "slow_motion": {
+            "url": "",
+            "start_time": null,
+            "end_time": null
+        },
+        "pro_examples": [],
+        "tutorial": ""
+    },
+    "Big Heelflip": {
+        "slow_motion": {
+            "url": "",
+            "start_time": null,
+            "end_time": null
+        },
+        "pro_examples": [],
+        "tutorial": ""
+    },
+    "Nollie Hardflip": {
+        "slow_motion": {
+            "url": "",
+            "start_time": null,
+            "end_time": null
+        },
+        "pro_examples": [],
+        "tutorial": ""
+    },
+    "Switch Frontside Heelflip": {
+        "slow_motion": {
+            "url": "",
+            "start_time": null,
+            "end_time": null
+        },
+        "pro_examples": [],
+        "tutorial": ""
+    },
+    "Late Kickflip": {
+        "slow_motion": {
+            "url": "",
+            "start_time": null,
+            "end_time": null
+        },
+        "pro_examples": [],
+        "tutorial": ""
+    },
+    "Biggerspin": {
+        "slow_motion": {
+            "url": "",
+            "start_time": null,
+            "end_time": null
+        },
+        "pro_examples": [],
+        "tutorial": ""
+    },
+    "Nollie Inward Heelflip": {
+        "slow_motion": {
+            "url": "",
+            "start_time": null,
+            "end_time": null
+        },
+        "pro_examples": [],
+        "tutorial": ""
+    },
+    "Switch Backside Heelflip": {
+        "slow_motion": {
+            "url": "",
+            "start_time": null,
+            "end_time": null
+        },
+        "pro_examples": [],
+        "tutorial": ""
+    },
+    "Semi Flip": {
+        "slow_motion": {
+            "url": "",
+            "start_time": null,
+            "end_time": null
+        },
+        "pro_examples": [],
+        "tutorial": ""
+    },
+    "De Comply": {
+        "slow_motion": {
+            "url": "",
+            "start_time": null,
+            "end_time": null
+        },
+        "pro_examples": [],
+        "tutorial": ""
+    },
+    "Laser Flip": {
+        "slow_motion": {
+            "url": "",
+            "start_time": null,
+            "end_time": null
+        },
+        "pro_examples": [],
+        "tutorial": ""
+    },
+    "360 Ollie Kickflip": {
+        "slow_motion": {
+            "url": "",
+            "start_time": null,
+            "end_time": null
+        },
+        "pro_examples": [],
+        "tutorial": ""
+    },
+    "Kickback Flip": {
+        "slow_motion": {
+            "url": "",
+            "start_time": null,
+            "end_time": null
+        },
+        "pro_examples": [],
+        "tutorial": ""
+    },
+    "Bubble Flip": {
+        "slow_motion": {
+            "url": "",
+            "start_time": null,
+            "end_time": null
+        },
+        "pro_examples": [],
+        "tutorial": ""
+    },
+    "Forward Flip": {
+        "slow_motion": {
+            "url": "",
+            "start_time": null,
+            "end_time": null
+        },
+        "pro_examples": [],
+        "tutorial": ""
+    },
+    "Switch Hardflip": {
+        "slow_motion": {
+            "url": "",
+            "start_time": null,
+            "end_time": null
+        },
+        "pro_examples": [],
+        "tutorial": ""
+    },
+    "Nollie 360 Flip": {
+        "slow_motion": {
+            "url": "",
+            "start_time": null,
+            "end_time": null
+        },
+        "pro_examples": [],
+        "tutorial": ""
+    },
+    "Casper Flip": {
+        "slow_motion": {
+            "url": "",
+            "start_time": null,
+            "end_time": null
+        },
+        "pro_examples": [],
+        "tutorial": ""
+    },
+    "360 Ollie Heelflip": {
+        "slow_motion": {
+            "url": "",
+            "start_time": null,
+            "end_time": null
+        },
+        "pro_examples": [],
+        "tutorial": ""
+    },
+    "Camel Flip": {
+        "slow_motion": {
+            "url": "",
+            "start_time": null,
+            "end_time": null
+        },
+        "pro_examples": [],
+        "tutorial": ""
+    },
+    "Biggerflip": {
+        "slow_motion": {
+            "url": "",
+            "start_time": null,
+            "end_time": null
+        },
+        "pro_examples": [],
+        "tutorial": ""
+    },
+    "Switch Inward Heelflip": {
+        "slow_motion": {
+            "url": "",
+            "start_time": null,
+            "end_time": null
+        },
+        "pro_examples": [],
+        "tutorial": ""
+    },
+    "Nollie Impossible": {
+        "slow_motion": {
+            "url": "",
+            "start_time": null,
+            "end_time": null
+        },
+        "pro_examples": [],
+        "tutorial": ""
+    },
+    "Disco Flip": {
+        "slow_motion": {
+            "url": "",
+            "start_time": null,
+            "end_time": null
+        },
+        "pro_examples": [],
+        "tutorial": ""
+    },
+    "Feather Flip": {
+        "slow_motion": {
+            "url": "",
+            "start_time": null,
+            "end_time": null
+        },
+        "pro_examples": [],
+        "tutorial": ""
+    },
+    "Underflip": {
+        "slow_motion": {
+            "url": "",
+            "start_time": null,
+            "end_time": null
+        },
+        "pro_examples": [],
+        "tutorial": ""
+    },
+    "Nerd Flip": {
+        "slow_motion": {
+            "url": "",
+            "start_time": null,
+            "end_time": null
+        },
+        "pro_examples": [],
+        "tutorial": ""
+    },
+    "Grape Flip": {
+        "slow_motion": {
+            "url": "",
+            "start_time": null,
+            "end_time": null
+        },
+        "pro_examples": [],
+        "tutorial": ""
+    },
+    "Gingersnap": {
+        "slow_motion": {
+            "url": "",
+            "start_time": null,
+            "end_time": null
+        },
+        "pro_examples": [],
+        "tutorial": ""
+    },
+    "Triple Kickflip": {
+        "slow_motion": {
+            "url": "",
+            "start_time": null,
+            "end_time": null
+        },
+        "pro_examples": [],
+        "tutorial": ""
+    },
+    "Nollie Laser Flip": {
+        "slow_motion": {
+            "url": "",
+            "start_time": null,
+            "end_time": null
+        },
+        "pro_examples": [],
+        "tutorial": ""
+    },
+    "Fakie 360 Hardflip": {
+        "slow_motion": {
+            "url": "",
+            "start_time": null,
+            "end_time": null
+        },
+        "pro_examples": [],
+        "tutorial": ""
+    },
+    "Anti Casper Flip": {
+        "slow_motion": {
+            "url": "",
+            "start_time": null,
+            "end_time": null
+        },
+        "pro_examples": [],
+        "tutorial": ""
+    },
+    "Kiwi Flip": {
+        "slow_motion": {
+            "url": "",
+            "start_time": null,
+            "end_time": null
+        },
+        "pro_examples": [],
+        "tutorial": ""
+    },
+    "Plasma Spin": {
+        "slow_motion": {
+            "url": "",
+            "start_time": null,
+            "end_time": null
+        },
+        "pro_examples": [],
+        "tutorial": ""
+    },
+    "Gazelle Spin": {
+        "slow_motion": {
+            "url": "",
+            "start_time": null,
+            "end_time": null
+        },
+        "pro_examples": [],
+        "tutorial": ""
+    },
+    "360 Hardflip": {
+        "slow_motion": {
+            "url": "",
+            "start_time": null,
+            "end_time": null
+        },
+        "pro_examples": [],
+        "tutorial": ""
+    },
+    "Alpha Flip": {
+        "slow_motion": {
+            "url": "",
+            "start_time": null,
+            "end_time": null
+        },
+        "pro_examples": [],
+        "tutorial": ""
+    },
+    "Daydream Flip": {
+        "slow_motion": {
+            "url": "",
+            "start_time": null,
+            "end_time": null
+        },
+        "pro_examples": [],
+        "tutorial": ""
+    },
+    "Haslam Flip": {
+        "slow_motion": {
+            "url": "",
+            "start_time": null,
+            "end_time": null
+        },
+        "pro_examples": [],
+        "tutorial": ""
+    },
+    "Gazelle Flip": {
+        "slow_motion": {
+            "url": "",
+            "start_time": null,
+            "end_time": null
+        },
+        "pro_examples": [],
+        "tutorial": ""
+    },
+    "Nollie 360 Hardflip": {
+        "slow_motion": {
+            "url": "",
+            "start_time": null,
+            "end_time": null
+        },
+        "pro_examples": [],
+        "tutorial": ""
+    },
+    "Sigma Flip": {
+        "slow_motion": {
+            "url": "",
+            "start_time": null,
+            "end_time": null
+        },
+        "pro_examples": [],
+        "tutorial": ""
+    },
+    "Switch 360 Hardflip": {
+        "slow_motion": {
+            "url": "",
+            "start_time": null,
+            "end_time": null
+        },
+        "pro_examples": [],
+        "tutorial": ""
+    },
+    "Ghetto Bird": {
+        "slow_motion": {
+            "url": "",
+            "start_time": null,
+            "end_time": null
+        },
+        "pro_examples": [],
+        "tutorial": ""
+    },
+    "Bullflip": {
+        "slow_motion": {
+            "url": "",
+            "start_time": null,
+            "end_time": null
+        },
+        "pro_examples": [],
+        "tutorial": ""
+    },
+    "Handstand Flip": {
+        "slow_motion": {
+            "url": "",
+            "start_time": null,
+            "end_time": null
+        },
+        "pro_examples": [],
+        "tutorial": ""
+    },
+    "Nightmare Flip": {
+        "slow_motion": {
+            "url": "",
+            "start_time": null,
+            "end_time": null
+        },
+        "pro_examples": [],
+        "tutorial": ""
+    },
+    "720 Flip": {
+        "slow_motion": {
+            "url": "",
+            "start_time": null,
+            "end_time": null
+        },
+        "pro_examples": [],
+        "tutorial": ""
+    }
+}
