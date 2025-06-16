@@ -2,7 +2,6 @@
 .idea/
 .venv/
 __pycache__/
-pages/
 
 # Specific text file
 skating_goals.txt
