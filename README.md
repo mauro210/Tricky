@@ -113,7 +113,7 @@ Ensure you have the following installed on your system:
 Once the app is running, you can:
 * Browse for tricks by difficulty
 * Search for specific tricks
-* Filter tricks by trick type
+* Filter tricks by type
 * Click on any trick to go to its trick page
 * View the custom video segments for the trick (fully available for "Ollie" and "Kickflip")
 * Replay the custom video segments by clicking the replay buttons
