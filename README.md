@@ -40,3 +40,72 @@ Tricky is an interactive web app for learning how to do skateboarding tricks and
   * Git – For managing project versions and facilitating development.
   * GitHub – Hosting the project repository and enabling collaboration.
 
+## Installation
+
+To run Tricky locally, follow these steps. It is highly recommended to use a virtual environment to manage dependencies.
+
+### Prerequisites
+
+Ensure you have the following installed on your system:
+
+* **Python 3.11+**
+* **Git** (for cloning the repository)
+
+### Step-by-Step Instructions
+
+1.  **Clone the Repository:**
+    First, get a copy of the project files onto your local machine.
+    ```bash
+    git clone https://github.com/mauro210/Tricky
+    ```
+
+2.  **Navigate to the Project Directory:**
+    Change your current directory to the newly cloned project folder.
+    ```bash
+    cd Tricky
+    ```
+
+3.  **Create a Virtual Environment:**
+    A virtual environment isolates your project's Python dependencies from your system's global Python packages, preventing conflicts.
+    ```bash
+    python -m venv venv
+    ```
+
+4.  **Activate the Virtual Environment:**
+    You'll need to activate the virtual environment in each new terminal session before running the app.
+
+    * **On macOS and Linux:**
+        ```bash
+        source venv/bin/activate
+        ```
+    * **On Windows (Git Bash):**
+        ```bash
+        source venv/Scripts/activate
+        ```
+    * **On Windows (Command Prompt):**
+        ```cmd
+        venv\Scripts\activate.bat
+        ```
+    * **On Windows (PowerShell):**
+        ```powershell
+        . .\venv\Scripts\Activate.ps1
+        ```
+        *Note: If you encounter an error in PowerShell regarding script execution, you might need to adjust your system's system's execution policy. You can often do this by running `Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser` in an administrator PowerShell session, then trying the activation command again.*
+
+    You should see `(venv)` at the beginning of your terminal prompt, indicating the virtual environment is active.
+
+5.  **Install Dependencies:**
+    Install all the required Python libraries listed in `requirements.txt`.
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+6.  **Run the Streamlit Application:**
+    Once all dependencies are installed, you can start the Streamlit app.
+    ```bash
+    streamlit run Home.py
+    ```
+
+7.  **Access the Application:**
+    After running the command in Step 6, your web browser should automatically open to the Streamlit application (usually at `http://localhost:8501`). If it doesn't, copy the URL from your terminal and paste it into your browser.
+
