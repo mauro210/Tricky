@@ -109,3 +109,5 @@ Ensure you have the following installed on your system:
 7.  **Access the Application:**
     After running the command in Step 6, your web browser should automatically open to the Streamlit application (usually at `http://localhost:8501`). If it doesn't, copy the URL from your terminal and paste it into your browser.
 
+## License
+This project is licensed under the MIT License – see the [LICENSE](./LICENSE) file for details.
