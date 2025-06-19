@@ -111,14 +111,14 @@ Ensure you have the following installed on your system:
 
 ## Usage
 Once the app is running, you can:
-* Browse for tricks by difficulty
-* Search for specific tricks
-* Filter tricks by type
-* Click on any trick to go to its trick page
-* View the custom video segments for the trick (fully available for "Ollie" and "Kickflip")
-* Replay the custom video segments by clicking the replay buttons
+* Browse tricks by difficulty level
+* Search for specific tricks by name
+* Filter tricks by type (e.g., Flip Tricks, Shove-Its & Spins)
+* Click on any trick to visit its detailed trick page
+* View custom video segments for each trick (fully available for "Ollie" and "Kickflip")
+* Replay trick videos using the replay buttons
 * Mark tricks as learned to track your progress
-* Click on the "Trick Data" button on the homepage to visit the dashboard for visual insights and recommendations
+* Click the **"Trick Data"** button on the homepage to access the dashboard with visual insights and personalized trick recommendations
 
 ## License
 This project is licensed under the MIT License – see the [LICENSE](./LICENSE) file for details.
