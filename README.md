@@ -109,6 +109,17 @@ Ensure you have the following installed on your system:
 7.  **Access the Application:**
     After running the command in Step 6, your web browser should automatically open to the Streamlit application (usually at `http://localhost:8501`). If it doesn't, copy the URL from your terminal and paste it into your browser.
 
+## Usage
+Once the app is running, you can:
+* Browse for tricks by difficulty
+* Search for specific tricks
+* Filter tricks by trick type
+* Click on any trick to go to its trick page
+* View the custom video segments for the trick (fully available for "Ollie" and "Kickflip")
+* Replay the custom video segments by clicking the replay buttons
+* Mark tricks as learned to track your progress
+* Click on the "Trick Data" button on the homepage to visit the dashboard for visual insights and recommendations
+
 ## License
 This project is licensed under the MIT License – see the [LICENSE](./LICENSE) file for details.
 
