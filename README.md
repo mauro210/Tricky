@@ -9,7 +9,8 @@ Note: For demonstration purposes, the "Ollie" and "Kickflip" trick pages have be
 - [Features](#features)  
 - [Tech Stack](#tech-stack)  
 - [Installation](#installation)  
-- [Usage](#usage)  
+- [Usage](#usage)
+- [Contributing](#contributing)  
 - [License](#license)  
 - [Contact](#contact)  
 
@@ -129,6 +130,16 @@ Once the app is running, you can:
 * Replay trick videos using the replay buttons
 * Mark tricks as learned to track your progress
 * Click the **"Trick Data"** button on the homepage to access the dashboard with visual insights and personalized trick recommendations
+
+## Contributing
+Contributions are welcome! If you find a bug or have a suggestion, feel free to open an issue or submit a pull request.
+
+To contribute:
+1. Fork the repository
+2. Create your feature branch (`git checkout -b feature/YourFeatureName`)
+3. Commit your changes (`git commit -m 'Add YourFeatureName'`)
+4. Push to the branch (`git push origin feature/YourFeatureName`)
+5. Open a pull request
 
 ## License
 This project is licensed under the MIT License – see the [LICENSE](./LICENSE) file for details.
