@@ -1,8 +1,18 @@
 # Tricky - A Skateboarding Trick Learning App
 ### Live Demo
+https://tricky.streamlit.app/
+
 Note: For demonstration purposes, the "Ollie" and "Kickflip" trick pages have been fully updated with proper video content. Every other trick page contains placeholder messages.
 
-https://tricky.streamlit.app/
+## Table of Contents  
+- [About The Project](#about-the-project)  
+- [Features](#features)  
+- [Tech Stack](#tech-stack)  
+- [Installation](#installation)  
+- [Usage](#usage)  
+- [License](#license)  
+- [Contact](#contact)  
+
 ## About The Project
 Tricky is an interactive web app for learning how to do skateboarding tricks and tracking your progress. I developed this project to deepen my understanding of full-stack development, practice applying HCI principles, and showcase my ability to build a complete, data-driven web solution. Tricky contains 145 tricks categorized by difficulty level and an intuitive UI that allows users to easily search for and filter tricks. It was designed to provide a comprehensive learning experience that involves curated video content with precise timestamp controls, similar trick suggestions, and personal progress tracking. It also features a data analytics dashboard for visualizing user progression metrics, category completion rates, and intelligent trick recommendations for skill advancement.
 
