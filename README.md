@@ -4,6 +4,15 @@ https://tricky.streamlit.app/
 
 Note: For demonstration purposes, the "Ollie" and "Kickflip" trick pages have been fully updated with proper video content. Every other trick page contains placeholder messages.
 
+## Screenshots
+
+### Homepage
+![Homepage](assets/screenshots/homepage.png)
+### Trick Page
+![Trick Page](assets/screenshots/trickpage.png)
+### Progress Page
+![Progress Page](assets/screenshots/progress.png)
+
 ## Table of Contents  
 - [About The Project](#about-the-project)  
 - [Features](#features)  
