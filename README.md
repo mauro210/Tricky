@@ -129,7 +129,7 @@ Once the app is running, you can:
 * View custom video segments for each trick (fully available for "Ollie" and "Kickflip")
 * Replay trick videos using the replay buttons
 * Mark tricks as learned to track your progress
-* Click the **"Trick Data"** button on the homepage to access the dashboard with visual insights and personalized trick recommendations
+* Click the **"Your Progress"** button on the homepage to access the dashboard with visual insights and personalized trick recommendations
 
 ## Contributing
 Contributions are welcome! If you find a bug or have a suggestion, feel free to open an issue or submit a pull request.
