@@ -16,12 +16,12 @@ df_tricks = get_tricks_df()
 completed_tricks = get_completed_tricks()
 
 # Set page config
-st.set_page_config(page_title="Trick Data", layout="wide", initial_sidebar_state="collapsed")
+st.set_page_config(page_title="Your Progress", layout="wide", initial_sidebar_state="collapsed")
 
 if st.button(":material/arrow_back: All Tricks 🛹"):
     st.switch_page("Home.py")
 
-st.markdown("<h1 style='text-align: center;'>Skateboarding Tricks Data</h1>", unsafe_allow_html=True)
+st.markdown("<h1 style='text-align: center;'>Your Skateboarding Progress</h1>", unsafe_allow_html=True)
 
 # Get data for analysis
 df = df_tricks.copy()  # Use a copy of the global df_tricks
@@ -121,31 +121,6 @@ if not completion_df.empty:
 # Add separator
 st.markdown("---")
 
-# Top 10 hardest tricks table
-st.subheader("Top 10 Hardest Tricks")
-
-hardest_tricks = df.sort_values('Difficulty', ascending=False).head(10)
-hardest_tricks['Status'] = hardest_tricks['Trick'].apply(
-    lambda x: "✅ Learned" if x in completed_list else "❌ Not Yet")
-
-# Display as a table
-st.dataframe(
-    hardest_tricks[['Trick', 'Difficulty', 'Category', 'Status']],
-    column_config={
-        "Trick": "Trick Name",
-        "Difficulty": st.column_config.ProgressColumn(
-            "Difficulty",
-            format="%d / 100",
-            min_value=0,
-            max_value=100,
-        ),
-        "Category": "Difficulty Level",
-        "Status": "Your Status"
-    },
-    hide_index=True,
-    use_container_width=True
-)
-
 # Next tricks to learn
 st.subheader("Recommended Next Tricks to Learn")
 
@@ -203,3 +178,28 @@ else:
         hide_index=True,
         use_container_width=True
     )
+
+# Top 10 hardest tricks table
+st.subheader("Top 10 Hardest Tricks")
+
+hardest_tricks = df.sort_values('Difficulty', ascending=False).head(10)
+hardest_tricks['Status'] = hardest_tricks['Trick'].apply(
+    lambda x: "✅ Learned" if x in completed_list else "❌ Not Yet")
+
+# Display as a table
+st.dataframe(
+    hardest_tricks[['Trick', 'Difficulty', 'Category', 'Status']],
+    column_config={
+        "Trick": "Trick Name",
+        "Difficulty": st.column_config.ProgressColumn(
+            "Difficulty",
+            format="%d / 100",
+            min_value=0,
+            max_value=100,
+        ),
+        "Category": "Difficulty Level",
+        "Status": "Your Status"
+    },
+    hide_index=True,
+    use_container_width=True
+)

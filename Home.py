@@ -27,6 +27,11 @@ def main():
 
     st.markdown("<h1 style='text-align: center;'>Tricky</h1>", unsafe_allow_html=True)
 
+    st.markdown(
+        "<p style='text-align: center;'>ℹ️ Note: For demonstration purposes, the <strong>Ollie</strong> and <strong>Kickflip</strong> trick pages have been fully updated with proper video content. Every other trick page contains placeholder messages.</p>",
+        unsafe_allow_html=True
+    )
+
     # Clear search before rendering input
     if st.session_state.get("clear_search_now"):
         st.session_state.trick_search = ""
@@ -38,7 +43,7 @@ def main():
     with search_container:
         st.markdown("<p style='margin-bottom: 0.5rem;'>Search</p>", unsafe_allow_html=True)
 
-        # Create three columns: search input, clear button, and trick data button
+        # Create three columns: search input, clear button, and your progress button
         col1, col2, col3 = st.columns([0.3, 1, 0.2])
 
         with col1:
@@ -67,8 +72,8 @@ def main():
             # Apply the same vertical alignment fix
             st.markdown("""
             <style>
-            /* Target the trick data button container */
-            [data-testid="stButton"]:has(> div:contains("Trick Data")) {
+            /* Target the your progress button container */
+            [data-testid="stButton"]:has(> div:contains("Your Progress")) {
                 position: relative;
                 top: -16px;  /* Move the button up by 8 pixels */
                 float: right;  /* Align to the right */
@@ -76,8 +81,8 @@ def main():
             </style>
             """, unsafe_allow_html=True)
 
-            if st.button("Trick Data :bar_chart: :material/arrow_forward:", key="trick_data_btn"):
-                st.switch_page("pages/Trick_Data.py")
+            if st.button("Your Progress :chart_with_upwards_trend: :material/arrow_forward:", key="your_progress_btn"):
+                st.switch_page("pages/Your_Progress.py")
 
     # Add a thinner separator after the search bar with custom styling
     st.markdown("<hr style='margin-top:0rem; margin-bottom:1.5rem; height:1px'>", unsafe_allow_html=True)
